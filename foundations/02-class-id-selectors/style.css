@@ -1,0 +1,18 @@
+p{
+    background-color: hsl(350, 100%, 88%);
+    font-family: verdana, "DejaVu Sans", sans-serif;
+
+}
+.fontsize24 {
+    font-size: 24px;
+}
+
+#bluesize{
+    color: #0000ff;
+    font-size: 36px;
+}
+#greenbackbold{
+    background-color: rgb(152, 224, 152);
+    font-weight: bold;
+
+}
